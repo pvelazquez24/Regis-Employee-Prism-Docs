@@ -18,3 +18,7 @@ Modules:
 Prism API URL: `https://api.prismhr.com/api-1.30/services/rest`
 Modules:
 - Benefits
+- Client Master
+- Employee
+- General Ledger
+- Payroll
